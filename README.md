@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sebastian Glz. Miranda
 - 👀 I’m interested in GIS, Geospatial sciences
 - 🌱 I’m currently learning Data Science and geodatabase design 
-- 💞️ I’m looking to collaborate on open sourse gis projects and gis apply to agroecólogy
+- 💞️ I’m looking to collaborate on open sourse gis projects and gis apply to agroecology
 - 📫 How to reach me: sbasglzmir@gmail.com
 
 <!---
